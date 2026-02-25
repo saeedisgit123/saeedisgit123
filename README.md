@@ -4,7 +4,7 @@
 <!--                    ANIMATED HEADER BANNER                      -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=saeedisgit123&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20SaaS%20Builder%20%7C%20API%20Architect&descAlignY=58&descAlign=50&descSize=18&descColor=a78bfa" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=ashhadsaeedi&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20SaaS%20Builder%20%7C%20API%20Architect&descAlignY=58&descAlign=50&descSize=18&descColor=a78bfa" />
 
 <!-- Typing SVG -->
 <a href="https://github.com/saeedisgit123">
@@ -66,15 +66,15 @@ const saeed = {
 <br/><br/>
 
 <!-- Social Badges -->
-<a href="https://instagram.com/saeedisgit123">
+<a href="https://instagram.com/ashhadsaeedi">
   <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0f0c29" />
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/saeedisgit123">
+<a href="https://linkedin.com/in/mohammadashhad24">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0c29" />
 </a>
 &nbsp;
-<a href="mailto:saeedisgit123@gmail.com">
+<a href="mailto:hafizashhad678@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0c29" />
 </a>
 

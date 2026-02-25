@@ -4,19 +4,19 @@
 <!--                    ANIMATED HEADER BANNER                      -->
 <!-- ══════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=saeeddigit123&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20SaaS%20Builder%20%7C%20API%20Architect&descAlignY=58&descAlign=50&descSize=18&descColor=a78bfa" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=saeedisgit123&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20%7C%20SaaS%20Builder%20%7C%20API%20Architect&descAlignY=58&descAlign=50&descSize=18&descColor=a78bfa" />
 
 <!-- Typing SVG -->
-<a href="https://github.com/saeeddigit123">
+<a href="https://github.com/saeedisgit123">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=600&lines=🚀+Building+Scalable+Web+Apps;⚡+MERN+%7C+Next.js+%7C+Laravel+Dev;🌐+SaaS+%7C+Dashboards+%7C+eCommerce;🔥+Clean+Code+%7C+Clean+Architecture;💡+Turning+Ideas+Into+Digital+Reality" alt="Typing SVG" />
 </a>
 
 <br/>
 
 <!-- Profile Views & Followers Badges -->
-<img src="https://komarev.com/ghpvc/?username=saeeddigit123&style=for-the-badge&color=7c3aed&labelColor=0f0c29&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=saeedisgit123&style=for-the-badge&color=7c3aed&labelColor=0f0c29&label=PROFILE+VIEWS" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/saeeddigit123?style=for-the-badge&color=a78bfa&labelColor=0f0c29&label=FOLLOWERS&logo=github" />
+<img src="https://img.shields.io/github/followers/saeedisgit123?style=for-the-badge&color=a78bfa&labelColor=0f0c29&label=FOLLOWERS&logo=github" />
 &nbsp;
 <img src="https://img.shields.io/badge/Open%20To%20Work-00d4aa?style=for-the-badge&logo=checkmarx&logoColor=white&labelColor=0f0c29" />
 
@@ -45,7 +45,7 @@ const saeed = {
   learning : "System Design & Performance Optimization",
   collab   : "Open Source & Real-World Projects",
   funFact  : "I turn complex ideas → elegant UIs ⚡",
-  contact  : "saeeddigit123@gmail.com"
+  contact  : "saeedisgit123@gmail.com"
 };
 ```
 
@@ -66,15 +66,15 @@ const saeed = {
 <br/><br/>
 
 <!-- Social Badges -->
-<a href="https://instagram.com/saeeddigit123">
+<a href="https://instagram.com/saeedisgit123">
   <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0f0c29" />
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/saeeddigit123">
+<a href="https://linkedin.com/in/saeedisgit123">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0c29" />
 </a>
 &nbsp;
-<a href="mailto:saeeddigit123@gmail.com">
+<a href="mailto:saeedisgit123@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0c29" />
 </a>
 
@@ -209,20 +209,20 @@ const saeed = {
 
 <br/>
 
-<a href="https://github.com/saeeddigit123">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saeeddigit123&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=22d3ee&text_color=ffffff&ring_color=7c3aed" />
+<a href="https://github.com/saeedisgit123">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saeedisgit123&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=22d3ee&text_color=ffffff&ring_color=7c3aed" />
   &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeeddigit123&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saeedisgit123&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff" />
 </a>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saeeddigit123&theme=midnight-purple&hide_border=true&background=0d1117&stroke=7c3aed&ring=a78bfa&fire=22d3ee&currStreakLabel=22d3ee&sideLabels=a78bfa&dates=ffffff" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saeedisgit123&theme=midnight-purple&hide_border=true&background=0d1117&stroke=7c3aed&ring=a78bfa&fire=22d3ee&currStreakLabel=22d3ee&sideLabels=a78bfa&dates=ffffff" width="49%" />
 
 <br/><br/>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saeeddigit123&bg_color=0d1117&color=a78bfa&line=7c3aed&point=22d3ee&area=true&hide_border=true&area_color=7c3aed" width="96%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saeedisgit123&bg_color=0d1117&color=a78bfa&line=7c3aed&point=22d3ee&area=true&hide_border=true&area_color=7c3aed" width="96%" />
 
 <br/><br/>
 
@@ -236,7 +236,7 @@ const saeed = {
 
 ## 🏆 &nbsp;GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=saeeddigit123&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" width="96%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=saeedisgit123&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" width="96%"/>
 
 <br/><br/>
 
@@ -251,9 +251,9 @@ const saeed = {
 ## 🐍 &nbsp;Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saeeddigit123/saeeddigit123/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saeeddigit123/saeeddigit123/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/saeeddigit123/saeeddigit123/output/github-snake-dark.svg" width="96%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saeedisgit123/saeedisgit123/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saeedisgit123/saeedisgit123/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/saeedisgit123/saeedisgit123/output/github-snake-dark.svg" width="96%"/>
 </picture>
 
 </div>
@@ -284,19 +284,19 @@ const saeed = {
 
 <br/>
 
-<a href="https://instagram.com/saeeddigit123">
+<a href="https://instagram.com/saeedisgit123">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&labelColor=0f0c29" height="35"/>
 </a>
 &nbsp;
-<a href="https://linkedin.com/in/saeeddigit123">
+<a href="https://linkedin.com/in/saeedisgit123">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0f0c29" height="35"/>
 </a>
 &nbsp;
-<a href="mailto:saeeddigit123@gmail.com">
+<a href="mailto:saeedisgit123@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0f0c29" height="35"/>
 </a>
 &nbsp;
-<a href="https://github.com/saeeddigit123">
+<a href="https://github.com/saeedisgit123">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=0f0c29" height="35"/>
 </a>
 
